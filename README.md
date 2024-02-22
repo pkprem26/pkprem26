@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkprem26&label=Profile%20views&color=0e75b6&style=flat" alt="pkprem26" /> </p>
 
 - 📄  My CV: [CV](https://github.com/pkprem26/pkprem26/blob/main/PremKumar_CV.pdf)
-- 📫 Email: **pkprem26$\@ gmail $\cdot$ com**
+- 📫 Email: **pkprem26\@ gmail $\cdot$ com**
 
 <p align="left"> <a href="https://twitter.com/pkprem26" target="blank"><img src="https://img.shields.io/twitter/follow/pkprem26?logo=twitter&style=for-the-badge" alt="pkprem26" /></a> </p>
 
